@@ -80,12 +80,5 @@ By the end of this assignment, you should be able to:
 
 ---
 
-:alarm_clock: **Deadline & Attempts**  
-- **Deadline:** 11:59pm, 18/10/2025  
-- **Attempts allowed:** 5  
-- **Late submissions:** :x: Not accepted  
-
----
-
 Remember: This task simulates real DevOps work. Employers at HNG are looking for interns who can deploy, document, and deliver. Show them what you can do!  
 You got this cool Keeds @channel
